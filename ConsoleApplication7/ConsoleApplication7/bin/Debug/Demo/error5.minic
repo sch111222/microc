@@ -1,0 +1,4 @@
+﻿void main(void) {
+  does_not_exist x;
+  x = 2;
+}
